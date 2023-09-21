@@ -30,27 +30,27 @@ This project is the visual part of an application for saving, viewing, editing, 
 
 ## 🔖 Project Layout
 Page from SignIn
-![PRO2-1](./src/images/Untitled.png)
+![PRO2-1](./public/SignIn.png)
 <br>
 <br>
 Page from SignUp
-![PRO2-1](./src/images/Screenshot_9.png)
+![PRO2-1](./public/SignUn.png)
 <br>
 <br>
 Home Page
-![PRO2-1](./src/images/Untitled.png)
+![PRO2-1](./public/Home.png)
 <br>
 <br>
 Profile Page
-![PRO2-1](./src/images/Untitled.png)
+![PRO2-1](./public/Profile.png)
 <br>
 <br>
 Create Movie Page
-![PRO2-1](./src/images/Untitled.png)
+![PRO2-1](./public/Create%20Movie.png)
 <br>
 <br>
 Movie Preview
-![PRO2-1](./src/images/Untitled.png)
+![PRO2-1](./public/Movie%20Preview.png)
 
 
 <br>
@@ -78,7 +78,7 @@ https://efficient-sloth-d85.notion.site/Front-end-da-aplica-o-30a5132b30534255b2
 - Start by cloning the project:
 
 ```bash
-  $ git clone 
+  $ git clone git@github.com:MvriloNascimento/Stage09-RocketMovies.git
 ```
 
 - Enter the directory:
