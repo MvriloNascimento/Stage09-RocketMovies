@@ -34,7 +34,7 @@ Page from SignIn
 <br>
 <br>
 Page from SignUp
-![PRO2-1](./public/SignUn.png)
+![PRO2-1](./public/SignUp.png)
 <br>
 <br>
 Home Page
@@ -102,10 +102,11 @@ https://efficient-sloth-d85.notion.site/Front-end-da-aplica-o-30a5132b30534255b2
 - If everything goes well, you will receive a message similar to this:
 
 ```bash
-  VITE v3.0.9  ready in 1989 ms
+ VITE v4.2.1  ready in 686 ms
 
-  ➜  Local:   http://127.0.0.1:5173/
+  ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
+  ➜  press h to show help
 ```
 
 - Now open your browser at the address entered in "`Local`" to test the application.
