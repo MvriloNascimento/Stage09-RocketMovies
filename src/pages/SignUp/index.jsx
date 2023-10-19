@@ -56,7 +56,7 @@ onChange = {e => setName(e.target.value)}
 />
 
 <Input
-placeholder="E-mail"
+placeholder="Email"
 type ="mail"
 icon={FiMail} 
 onChange = {e => setEmail(e.target.value)}

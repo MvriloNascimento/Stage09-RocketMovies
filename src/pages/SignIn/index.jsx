@@ -28,7 +28,7 @@ return(
 <h2>Log in</h2>
 
 <Input
-placeholder="E-mail"
+placeholder="Email"
 type ="mail"
 icon={FiMail} 
 onChange= {e => setEmail(e.target.value)}
